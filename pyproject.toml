@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "regulations-analyzer"
+version = "0.1.0"
+description = ""
+authors = ["Sean Bird <bird.seanmichael@gmail.com>"]
+readme = "README.md"
+packages = [{include = "regulations_analyzer"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.2.3"
+requests = "^2.32.3"
+polars = "^1.22.0"
+xmltodict = "^0.14.2"
+sqlalchemy = "^2.0.38"
+psycopg2-binary = "^2.9.10"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
