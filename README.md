@@ -19,7 +19,7 @@ Query Interface: http://k8s-superset-superset-acd1ac03e7-863469020.us-east-1.elb
 - Runs on a serverless DB that will likely go cold so first load might take a minute or require a refresh if the request times out. Subsequent loads will be fast.
 
 ## Timelog
-11 Feb: 4 hrs - First ETL and Superset prototype
-12 Feb: 3 hrs - Rest of "level 0" ETLs and Superset progress
-13 Feb: 7 hrs - Level 1-3 ETLs, Supserset on EKS, build metrics
-14 Feb: 1 hrs - Final metrics, bugs, light cleanup
+- 11 Feb: 4 hrs - First ETL and Superset prototype
+- 12 Feb: 3 hrs - Rest of "level 0" ETLs and Superset progress
+- 13 Feb: 7 hrs - Level 1-3 ETLs, Supserset on EKS, build metrics
+- 14 Feb: 1 hrs - Final metrics, bugs, light cleanup
