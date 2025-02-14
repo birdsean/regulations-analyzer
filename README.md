@@ -1,13 +1,13 @@
 # Regulations Analyzer
 
-## Requirements
+## Tasks
 - [x] Write code to download the current eCFR
 - [x] Analyze it for items such as word count per agency and historical changes over time
 - [x] Add your own custom metrics
 - [x] There should be a front end visualization for the content where we can click around and ideally query items
 - [x] There should be a public github project with the code
 
-## Demo:
+## Demo
 URL: http://k8s-superset-superset-acd1ac03e7-863469020.us-east-1.elb.amazonaws.com/superset/dashboard/1
 Query Interface: http://k8s-superset-superset-acd1ac03e7-863469020.us-east-1.elb.amazonaws.com/sqllab/
 
