@@ -11,8 +11,8 @@
 URL: http://k8s-superset-superset-acd1ac03e7-863469020.us-east-1.elb.amazonaws.com/superset/dashboard/1
 Query Interface: http://k8s-superset-superset-acd1ac03e7-863469020.us-east-1.elb.amazonaws.com/sqllab/
 
-Username: admin
-Password: admin
+- Username: admin
+- Password: admin
 
 ### Notes
 - Serves over http, so you'll need to "proceed anyway" on the browser security warning
