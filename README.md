@@ -14,7 +14,9 @@ Query Interface: http://k8s-superset-superset-acd1ac03e7-863469020.us-east-1.elb
 Username: admin
 Password: admin
 
-(Serves over http, so you'll need to "proceed anyway" on the browser security warning)
+### Notes
+- Serves over http, so you'll need to "proceed anyway" on the browser security warning
+- Runs on a serverless DB that will likely go cold so first load might take a minute or require a refresh if the request times out. Subsequent loads will be fast.
 
 ## Timelog
 11 Feb: 4 hrs - First ETL and Superset prototype
