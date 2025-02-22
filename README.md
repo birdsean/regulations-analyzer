@@ -8,11 +8,20 @@
 - [x] There should be a public github project with the code
 
 ## Demo
-URL: http://k8s-superset-superset-acd1ac03e7-863469020.us-east-1.elb.amazonaws.com/superset/dashboard/1
-Query Interface: http://k8s-superset-superset-acd1ac03e7-863469020.us-east-1.elb.amazonaws.com/sqllab/
 
-- Username: admin
-- Password: admin
+**Update 22 Feb 2025**: Hosting was too expensive so I tore the demo infrastructure down. Please email if you'd like to see it live. Here's some screenshots:
+
+### Screenshots
+
+![Image](https://github.com/user-attachments/assets/383aefb7-745e-4e5f-afda-e6eb4db85028)
+![Image](https://github.com/user-attachments/assets/bf09b3ca-b8c9-4216-b5de-8ced242cffb3)
+![Image](https://github.com/user-attachments/assets/a387d6dc-98f1-4152-b206-6d184fdfe0f0)
+
+~~URL: http://k8s-superset-superset-acd1ac03e7-863469020.us-east-1.elb.amazonaws.com/superset/dashboard/1~~
+~~Query Interface: http://k8s-superset-superset-acd1ac03e7-863469020.us-east-1.elb.amazonaws.com/sqllab/~~
+
+~~- Username: admin~~
+~~- Password: admin~~
 
 ### Notes
 - Serves over http, so you'll need to "proceed anyway" on the browser security warning
